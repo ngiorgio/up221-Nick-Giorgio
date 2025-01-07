@@ -1,5 +1,4 @@
-# up221-Nick-Giorgio
-## Nick Giorgio's Transportation Data Space
+## Nick Giorgio
 Whats up! This is my repository
 ## About me
 Im form Torrance CA and i'm a first year MURP student with an AOC in transportation. I used to be into skating but bikes took over a couple years ago! 
